@@ -2,9 +2,9 @@
 
 [TOC]
 
-#数据结构 
+# 数据结构 
 
-• 一维:
+•一维:
  • 基础:数组 array (string), 链表 linked list
  • 高级:栈 stack, 队列 queue, 双端队列 deque, 集合 set, 映射 map (hash or map), etc 
 
@@ -15,7 +15,7 @@
 • 特殊:
  • 位运算 Bitwise, 布隆过滤器 BloomFilter • LRU Cache 
 
-#算法 
+# 算法 
 
 - If-else, switch —> branch 
 - for, while loop —> Iteration 
@@ -26,7 +26,7 @@
 - 贪心 Greedy 
 - 数学 Math , 几何 Geometry 
 
-#Big O notation 
+# Big O notation 
 
 * O(1): Constant Complexity 常数复杂度
 * O(log n): Logarithmic Complexity 对数复杂度 
